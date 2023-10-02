@@ -7,3 +7,4 @@ assert.strictEqual(chessboard()[0].length, 8);
 assert.strictEqual(chessboard()[0][0], "a - 1");
 assert.strictEqual(chessboard()[7][7], "h - 8");
 assert.strictEqual(chessboard()[4][4], "e - 5");
+assert.strictEqual(chessboard()[4][5], "e - 6");
