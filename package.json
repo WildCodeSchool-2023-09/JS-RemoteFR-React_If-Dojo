@@ -1,0 +1,12 @@
+{
+	"name": "algo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"test": "node --test",
+		"test:1": "node --test ./easy/index.test.js",
+		"test:2": "node --test ./med/index.test.js",
+		"test:3": "node --test ./hard/index.test.js"
+	}
+}
