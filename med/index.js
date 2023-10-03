@@ -1,17 +1,15 @@
 /**
- *
- * Trouve les pokemons de type psychique & feu, je souhaite le résultat dans un tableau sous cette forme
- *
- * [[psychique], [feu]]
- *
- * Avec [psychique] et [feu] qui sont des tableaux d'objet de pokemons
- *
+ * La fonction fizzbuzz doit retourner une string avec le message suivant :
+ * - "Fizz" si le nombre est divisible par 3
+ * - "Buzz" si le nombre est divisible par 5
+ * - "FizzBuzz" si le nombre est divisible par 3 et 5
+ * - "" si le nombre n'est divisible ni par 3 ni par 5
  */
 
-function findTypePokemon(pokemons) {
+function fizzbuzz(number) {
 	// votre code ici
 }
 
 // ⚠️ ne pas modifier
 
-module.exports = { findTypePokemon };
+module.exports = { fizzbuzz };

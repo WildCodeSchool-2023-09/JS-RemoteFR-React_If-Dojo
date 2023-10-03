@@ -1,12 +1,11 @@
 /**
- * Nous devons retourner le rayon d'un cercle
- * Pour ce faire, nous avons besoin de la formule suivante:
- * rayon = diamètre / 2
+ * La fonction greeting doit retourner une string avec le message suivant :
+ * "Hello {name} !"
  */
 
-function calculerRayon(diametre) {
-	// votre code ici
+function greeting(name) {
+	// Code here
 }
 
 // ⚠️ ne pas modifier
-module.exports = { calculerRayon };
+module.exports = { greeting };
